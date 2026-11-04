@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Used ONLY by the XML window theme (themes.xml).
+         All Compose colours live in core/designsystem/theme/AdifyColors.kt -->
+    <color name="adify_background">#FF0A0E12</color>
+</resources>

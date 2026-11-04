@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Shown for a split second before Compose draws.
+         A dark background prevents a white flash when the screen boots. -->
+    <style name="Theme.Adify" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/adify_background</item>
+    </style>
+</resources>
